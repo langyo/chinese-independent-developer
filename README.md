@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 5 号添加
 
+#### Ian(海外)
+* :white_check_mark: [IELTS Writing Checker](https://ieltswritingchecker.org/)：雅思作文批改和辅导
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [黄油单词](https://waiyuka.cc)：一个免费的在线背单词工具， 每张单词卡配有AI插图、单词发音和例句朗读，支持西班牙语、法语、德语、日语。
   
