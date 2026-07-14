@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
+* :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input/releases/latest)：Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流 - [查看仓库](https://github.com/EthanYoQ/whisper-input)
+
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
