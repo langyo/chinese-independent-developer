@@ -26,6 +26,10 @@
 
 ### 2026 年 7 月 14 号添加
 
+#### HarlonWang - [Github](https://github.com/HarlonWang)
+* :white_check_mark: [TrendingAI](https://trendingai.cn/app/)：海外技术热点中文情报站，AI 每日从 GitHub Trending、Hacker News、Product Hunt 精选并深度解读，支持 App、网页、邮件和 RSS 订阅 - [查看仓库](https://github.com/HarlonWang/TrendingAI)
+* :white_check_mark: [Tono](https://tonote.app/)：极简 Android 待办与笔记 App，打开即记，想法和任务一处捕捉、永不丢失
+
 #### Tristan Tang - [Github](https://github.com/tristan666666)
 * :white_check_mark: [Agent Island](https://agent-island.dev/)：Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)
 
