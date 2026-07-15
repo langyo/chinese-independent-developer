@@ -31,6 +31,22 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### NiYongsheng - [Github](https://github.com/niyongsheng)
+* :white_check_mark: [Moler](https://github.com/niyongsheng/moler)：NASA-Punk 风格的 Mac 磁盘清理工具，支持重复文件扫描、大文件检测、应用卸载和磁盘概览 - [更多介绍](https://niyongsheng.github.io/moler/)
+* :white_check_mark: [MythPen](https://github.com/niyongsheng/mythpen)：桌面端 AI 辅助小说创作工具，管理角色、世界观、章节、伏笔和时间线等写作要素 - [更多介绍](https://niyongsheng.github.io/mythpen/index.html)
+
+#### luolinila - [Github](https://github.com/luolinila)
+* :white_check_mark: [嘶好冷](http://8.134.62.33:8000/)：每日一则冷笑话，附 Android 客户端 - [更多介绍](https://github.com/luolinila/sihaolen/tree/main)
+
+#### 胡图图不涂涂 - [Github](https://github.com/hukdoesn)
+* :white_check_mark: [Nimclip](https://hukdoesn.github.io/Nimclip/)：免费开源、本地优先的 macOS 剪贴板历史工具，支持文本、链接、代码、图片和富文本历史，所有数据只保存在当前 Mac - [更多介绍](https://github.com/hukdoesn/Nimclip)
+
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [Google Trends Explorer](https://keywords.aibit.im/zh/)：Google 趋势关键词词根探索器，从 38 个行业 800+ 精选关键词中挑选短词根，自动扩展为真实长尾短语，最多选 8 个词根一键打开
+
+#### liumengniu - [Github](https://github.com/liumengniu)
+* :white_check_mark: [TranAI](https://tranai.app/)：聚合海外主流应用的多开翻译器，支持沉浸式翻译、有道/百度/Google/DeepL/ChatGPT 等翻译通道和 AI 智能回复
+
 #### 东方邯
 * :white_check_mark: [企业智能对账](https://github.com/CQZhangXin/AI-Reconciliation)：基于 AI 大模型的智能财务对账平台，通过"规则引擎 + Embedding 语义粗排 + LLM 多维精排"三层匹配架构实现 75-95% 自动对账率，并深度融合自然语言交互实现智能字段映射、差异根因分析、业务报告自动生成与自定义方案编排，定位为财务团队的 AI 协作者。
 
