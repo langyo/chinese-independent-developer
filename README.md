@@ -33,6 +33,9 @@
 
 #### Beihai10078 - [Github](https://github.com/Beihai10078)
 * :white_check_mark: [小米设备价格天梯 & 代号速查](https://beihai10078.github.io/xiaomi-price-tier/)：Xiaomi / Redmi / POCO 设备价格天梯与代号速查工具，覆盖 245 台设备，支持品牌/系列/类型多维筛选、代号一键复制、中英双语、Material You 风格，纯静态零依赖 - [查看仓库](https://github.com/Beihai10078/xiaomi-price-tier)
+
+#### sunmh207 - [Github](https://github.com/sunmh207)
+* :white_check_mark: [AI Codereview for Gitlab](https://demo.mzfuture.com)：基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard - [查看仓库](https://github.com/sunmh207/AI-Codereview-Gitlab)
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
