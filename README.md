@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 23 号添加
 
+#### slamancn - [Github](https://github.com/slamancn)
+* :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将PDF转换为Markdown，完全离线，无需上传、无文件大小限制、智能图像文字识别、快速、私密、安全，设备端处理，支持通过AirDrop共享；鸿蒙版本[PDF2MD](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
+
 #### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
 * :white_check_mark: [听歌Next](https://tinggenext.com)：多人在线共同听歌 - [更多介绍](https://tinggenext.com)
 * :white_check_mark: [Fin-Agent](https://fin-agent.chat)：帮助投资者对投资标的进行专业分析 - [更多介绍](https://fin-agent.chat)
